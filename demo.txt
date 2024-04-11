@@ -1,0 +1,4 @@
+Two stations A and B are 110 km apart on a straight line. One train starts from A at 7 a.m. 
+and travels towards B at 20 kmph. Another train starts from B at 8 a.m.
+and travels towards A at a speed of 25 kmph.
+At what time will they meet
